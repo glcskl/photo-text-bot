@@ -1,4 +1,4 @@
-# tg3 — Telegram photo text bot
+# photo-text-bot — Telegram photo text bot
 
 A Telegram bot that writes styled text onto a photo and sends the result back without the user ever opening an image editor. The user picks a style, types the text, and receives a finished image.
 
